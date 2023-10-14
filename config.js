@@ -55,7 +55,7 @@ const CONFIG = {
             id: '1',
             name: 'Youtube',
             icon: 'youtube',
-            link: 'https://odysee.com/',
+            link: 'https://www.youtube.com/',
         },
 		{
 			id: '2',
@@ -67,13 +67,13 @@ const CONFIG = {
 			id: '3',
 			name: 'Zap',
 			icon: 'whatsapp',
-			link: 'web.whatsapp.com',
+			link: 'https://web.whatsapp.com/',
 		},
         {
             id: '4',
             name: 'Music',
             icon: 'headphones',
-            link: 'open.spotify.com',
+            link: 'https://open.spotify.com/',
         },
 		{
 			id: '5',
@@ -94,7 +94,6 @@ const CONFIG = {
             id: '1',
             name: 'OLL',
             icon: 'book',
-            link: 'https://www.libertyfund.org/',
         },
         {
             id: '2',
@@ -106,7 +105,7 @@ const CONFIG = {
 			id: '3',
 			name: 'Music',
 			icon: 'headphones',
-			link: 'open.spotify.com',
+			link: 'https://open.spotify.com/',
 		},
 		{
 			id: '4',
@@ -135,18 +134,17 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'book',
 			id: '1',
 			links: [
 				{
-					name: 'Spotify',
-			        icon: 'headphones',
-					link: 'https://mises.org/',
+					name: 'Oll',
+                    link: 'https://www.libertyfund.org/',
 				},
-				{
-					name: 'JazzTronica',
-					link: 'https://www.youtube.com/watch?v=-t4gIJFFFUs',
-				},
+                {
+                    name: 'Mises',
+                    link: 'https://mises.org/',
+                },
 				{
 					name: 'Oldies',
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
@@ -162,11 +160,11 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Spotify',
+					link: 'https://open.spotify.com/',
 				},
 				{
-					name: 'Dribbble',
+					name: 'JazzTronica',
 					link: 'https://www.dribbble.com',
 				},
 				{
