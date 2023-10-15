@@ -72,7 +72,7 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'GitHub',
-			icon: 'hub',
+			icon: 'git',
 			link: 'https://github.com/',
 		},
 		{
@@ -84,7 +84,7 @@ const CONFIG = {
 		{
 			id: '6',
 			name: 'GitHub',
-			icon: 'hub',
+			icon: 'github',
 			link: 'https://github.com/',
 		},
 	],
