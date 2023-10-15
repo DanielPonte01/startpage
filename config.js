@@ -66,13 +66,13 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Zap',
-			icon: 'fa-whatsapp',
+			icon: 'send',
 			link: 'https://web.whatsapp.com/',
 		},
 		{
 			id: '4',
-			name: 'GitHub',
-			icon: 'git',
+			name: 'github',
+			icon: 'github',
 			link: 'https://github.com/',
 		},
 		{
@@ -83,7 +83,7 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'GitHub',
+			name: 'github',
 			icon: 'github',
 			link: 'https://github.com/',
 		},
