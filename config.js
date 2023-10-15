@@ -66,7 +66,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Zap',
-			icon: 'whatsapp',
+			icon: 'fa-whatsapp',
 			link: 'https://web.whatsapp.com/',
 		},
 		{
