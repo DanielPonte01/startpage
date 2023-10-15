@@ -69,12 +69,12 @@ const CONFIG = {
 			icon: 'whatsapp',
 			link: 'https://web.whatsapp.com/',
 		},
-        {
-            id: '4',
-            name: 'Music',
-            icon: 'headphones',
-            link: 'https://open.spotify.com/',
-        },
+		{
+			id: '4',
+			name: 'GitHub',
+			icon: 'hub',
+			link: 'https://github.com/',
+		},
 		{
 			id: '5',
 			name: 'Twitter',
@@ -83,16 +83,16 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Reddit',
-			icon: 'reddit',
-			link: 'https://www.reddit.com/',
+			name: 'GitHub',
+			icon: 'hub',
+			link: 'https://github.com/',
 		},
 	],
 
 	secondButtonsContainer: [
         {
             id: '1',
-            name: 'OLL',
+            name: 'Online Library of Liberty',
             icon: 'book',
         },
         {
@@ -138,20 +138,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Oll',
-                    link: 'https://www.libertyfund.org/',
+					name: 'Online Library of Liberty',
+                    link: 'https://oll.libertyfund.org/',
 				},
                 {
                     name: 'Mises',
                     link: 'https://mises.org/',
                 },
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Libgen',
+					link: 'http://libgen.rs/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'SSRN',
+					link: 'https://www.ssrn.com/index.cfm/en/',
 				},
 			],
 		},
